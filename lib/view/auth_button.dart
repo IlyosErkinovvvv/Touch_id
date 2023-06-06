@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:local_auth/local_auth.dart';
 import 'package:touch_id/service/local_auth_service.dart';
-import 'package:touch_id/widget/show_message_helper.dart';
+import 'package:touch_id/core/widgets/show_message_helper.dart';
 
 class AuthButton extends StatefulWidget {
   const AuthButton({super.key});
