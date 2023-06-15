@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:touch_id/view/auth_page.dart';
 
-void main() {
+void main(List<String> args) {
   runApp(const MyApp());
 }
 
